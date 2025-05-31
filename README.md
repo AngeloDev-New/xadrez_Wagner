@@ -70,3 +70,5 @@ O objetivo do problema clássico das 8 rainhas é posicionar 8 rainhas em um tab
 ## 📜 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
+
+![solucao](assets/solucao.jpeg)
